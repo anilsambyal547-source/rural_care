@@ -7,6 +7,24 @@ GraminCare is a smart, offline-first telehealth platform designed to improve acc
 
 The platform connects rural healthcare workers, patients, doctors, and primary health centers through a unified digital healthcare ecosystem that continues to work even in areas with limited or unreliable internet connectivity.
 
+## 🎥 Project Demo
+
+<table>
+<tr>
+<td width="50%">
+
+### 📺 Watch the Demo
+
+See GraminCare in action and explore how the platform enables offline-first rural telehealth, AI-assisted triage, teleconsultation, emergency support, and digital healthcare management.
+
+<a href="https://youtu.be/Sx7p3RhOdhw">
+  <img src="https://img.youtube.com/vi/Sx7p3RhOdhw/maxresdefault.jpg" width="100%">
+</a>
+
+</td>
+
+<td width="50%">
+
 ## 🚑 What is GraminCare?
 
 Rural communities often face challenges such as:
