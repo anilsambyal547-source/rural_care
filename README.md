@@ -1,3 +1,74 @@
+
+# 🌾 GraminCare
+
+### Offline-First Smart Rural Telehealth Ecosystem
+
+GraminCare is a smart, offline-first telehealth platform designed to improve access to quality healthcare in **rural and underserved areas**.
+
+The platform connects rural healthcare workers, patients, doctors, and primary health centers through a unified digital healthcare ecosystem that continues to work even in areas with limited or unreliable internet connectivity.
+
+## 🚑 What is GraminCare?
+
+Rural communities often face challenges such as:
+
+- Delayed diagnosis and treatment
+- Limited access to doctors and specialists
+- Long-distance travel for medical consultations
+- Poor internet connectivity
+- Lack of centralized digital health records
+- Delays during medical emergencies
+
+**GraminCare addresses these challenges by bringing healthcare services closer to the patient through an offline-first digital platform.**
+
+## 💡 Our Solution
+
+GraminCare provides a complete rural healthcare workflow:
+
+**ASHA Worker → Patient Registration → AI Triage → Doctor Consultation → Prescription → Follow-up**
+
+The system allows healthcare workers to capture patient information and vital signs, perform preliminary AI-assisted triage, and securely synchronize data with doctors and healthcare centers when connectivity is available.
+
+### ✨ Key Features
+
+- 🤖 **AI Health Assistant** – Multilingual voice and text-based symptom assistance and triage
+- 🩺 **AI Triage & Early Alerts** – Prioritizes patients based on entered symptoms and vitals
+- 📱 **Offline-First Architecture** – Allows healthcare workers to continue working during internet outages
+- 👨‍⚕️ **Doctor Teleconsultation** – Enables remote consultation through low-bandwidth video and audio
+- 🚨 **One-Click SOS** – Emergency assistance with GPS location and vital information
+- 💊 **Digital Prescriptions** – Doctors can generate and share digital prescriptions
+- 📋 **Digital Health Records** – Centralized patient information and ABHA-ready records
+- 🔄 **Real-Time Data Synchronization** – Synchronizes healthcare data when connectivity is restored
+- 📊 **Live Dashboards & Analytics** – Provides doctors and administrators with real-time visibility
+- 📦 **Digital Medicine Inventory** – Helps track medicines and rural pharmacy stock
+- 🔲 **QR-Based Tracking** – QR codes for patient identification and inventory management
+
+## 🏥 How It Works
+
+```text
+        👩‍⚕️ ASHA Worker
+               ↓
+       📋 Patient Registration
+               ↓
+        🤖 AI Health Triage
+               ↓
+      🚦 Risk Classification
+        ↓        ↓        ↓
+      🟢 Low   🟡 Medium  🔴 High
+                         ↓
+                 🚨 Priority Alert
+                         ↓
+                👨‍⚕️ Doctor Console
+                         ↓
+                📹 Teleconsultation
+                         ↓
+                💊 Digital Prescription
+                         ↓
+                 📱 Patient / ASHA
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
