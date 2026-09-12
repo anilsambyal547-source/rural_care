@@ -24,6 +24,9 @@ See GraminCare in action and explore how the platform enables offline-first rura
 </td>
 
 <td width="50%">
+</td>
+</tr>
+</table>
 
 ## 🚑 What is GraminCare?
 
