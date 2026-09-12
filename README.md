@@ -11,7 +11,7 @@ The platform connects rural healthcare workers, patients, doctors, and primary h
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 📺 Watch the Demo
 
@@ -23,7 +23,7 @@ See GraminCare in action and explore how the platform enables offline-first rura
 
 </td>
 
-<td width="50%">
+<td width="100%">
 </td>
 </tr>
 </table>
